@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.coverage
+htmlcov/
+build/
+dist/
+*.egg-info/
+# Private device data; even manually named backups must not be committed.
+*.json
+*.jsonl
+backups/
+*.log
+*.zip
+.env
+.env.*
+.DS_Store
+Thumbs.db
